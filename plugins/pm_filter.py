@@ -88,7 +88,7 @@ async def pm_text(bot, message):
             link = get_link(content)
             if not link:
                 if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
-                if PM_SEARCH == True:
+                if PM_SEARCH == False:
                     ai_search = True
                     reply_msg = await bot.send_message(message.from_user.id, f"<b><i>Searching For {content} 🔍</i></b>", reply_to_message_id=message.id)
                     await auto_filter(bot, content, message, reply_msg, ai_search)
