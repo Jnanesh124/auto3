@@ -46,7 +46,7 @@ async def save_group(bot, message):
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
-            text=f"<strong>Thankyou For Adding Me In {message.chat.title} 🎪\n\nknow add ur shortner and earn money 💸\n\n💈 Formate :- /shortlink {url_website} {website_api}.</strong>",
+            text=f"Thankyou For Adding Me In {message.chat.title} 🎪\n\nknow add ur shortner and earn money 💸\n\n💈 Formate :- /shortlink {url_website} {website_api}.",
             reply_markup=reply_markup)
     else:
         settings = await get_settings(message.chat.id)
