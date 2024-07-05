@@ -160,23 +160,21 @@ Nᴀᴍᴇ - {}"""
 ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
-    CUDNT_FND = """<strong>u typed wrong spelling don't worry select below correct one</strong>"""
+    CUDNT_FND = """<strong>➪ 𝐮 𝐭𝐲𝐩𝐞𝐝 ❌ 𝐰𝐫𝐨𝐧𝐠 𝐦𝐨𝐯𝐢𝐞 𝐧𝐚𝐦𝐞 𝐬𝐨 𝐝𝐨𝐧'𝐭 𝐰𝐨𝐫𝐫𝐲 
+➪ 𝐮 𝐜𝐚𝐧 𝐠𝐨 𝐭𝐨 𝐠𝐨𝐨𝐠𝐥𝐞 𝐚𝐧𝐝 𝐜𝐡𝐞𝐜𝐤 𝐚𝐧𝐝 𝐬𝐞𝐧𝐝  𝐡𝐞𝐫𝐞 👀
+➪ 𝐚𝐫𝐞 𝐬𝐞𝐥𝐞𝐜𝐭 𝐜𝐨𝐫𝐫𝐞𝐜𝐭 𝐦𝐨𝐯𝐢𝐞 𝐧𝐚𝐦𝐞 𝐢𝐧 𝐛𝐞𝐥𝐨𝐰 𝐚𝐩𝐭𝐢𝐨𝐧 👇 </strong>"""
 
-    I_CUDNT = """<strong> hi don't add 'year' 'launguag' extra....
-    
-    🔈 Are Requist Movies in below formate 🔈
-    
-    kgf ✅
-    kgf kannada ❌
-    
-    go to google check ur spelling and send again here</strong>"""
+    I_CUDNT = """<strong>❝𝖧𝖾𝗒 𝗌𝗈𝗆𝖾𝗍𝗁𝗂𝗇𝗀 𝖨𝗌 𝖶𝗋𝗈𝗇𝗀❞
 
-    I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
-ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
+➪ 𝐮 𝐭𝐲𝐩𝐞𝐝 ❌ 𝐰𝐫𝐨𝐧𝐠 𝐦𝐨𝐯𝐢𝐞 𝐧𝐚𝐦𝐞 𝐬𝐨 𝐝𝐨𝐧'𝐭 𝐰𝐨𝐫𝐫𝐲 
+➪ 𝐮 𝐜𝐚𝐧 𝐠𝐨 𝐭𝐨 𝐠𝐨𝐨𝐠𝐥𝐞 𝐚𝐧𝐝 𝐜𝐡𝐞𝐜𝐤 𝐚𝐧𝐝 𝐬𝐞𝐧𝐝  𝐡𝐞𝐫𝐞 👀</strong>"""
 
-    MVE_NT_FND = """<strong>hi think this movie not released yet ❌
-    
-    are My owner not added yet❕</strong>"""
+    I_CUD_NT = """<strong>❝𝖧𝖾𝗒 𝗌𝗈𝗆𝖾𝗍𝗁𝗂𝗇𝗀 𝖨𝗌 𝖶𝗋𝗈𝗇𝗀❞
+
+➪ 𝐮 𝐭𝐲𝐩𝐞𝐝 ❌ 𝐰𝐫𝐨𝐧𝐠 𝐦𝐨𝐯𝐢𝐞 𝐧𝐚𝐦𝐞 𝐬𝐨 𝐝𝐨𝐧'𝐭 𝐰𝐨𝐫𝐫𝐲 
+➪ 𝐮 𝐜𝐚𝐧 𝐠𝐨 𝐭𝐨 𝐠𝐨𝐨𝐠𝐥𝐞 𝐚𝐧𝐝 𝐜𝐡𝐞𝐜𝐤 𝐚𝐧𝐝 𝐬𝐞𝐧𝐝  𝐡𝐞𝐫𝐞 👀</strong>"""
+
+    MVE_NT_FND = """<strong>𝐢 𝐝𝐨𝐧'𝐭 𝐡𝐚𝐯𝐞 𝐭𝐡𝐢𝐬 𝐦𝐨𝐯𝐢𝐞 𝐟𝐢𝐥𝐞 𝐫𝐞𝐢𝐠𝐡𝐭 𝐤𝐧𝐨𝐰 📁</strong>"""
 
     TOP_ALRT_MSG = """<strong>Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...🩺</strong>"""
 
